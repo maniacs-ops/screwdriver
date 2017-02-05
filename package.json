@@ -92,7 +92,7 @@
     "chai": "~3.5.0",
     "chai-as-promised": "^6.0.0",
     "chai-jwt": "^2.0.0",
-    "coveralls": "^2.11.12",
+    "coveralls": "^2.11.16",
     "cucumber": "^1.0.0",
     "eslint": "^3.2.2",
     "eslint-config-screwdriver": "^2.0.0",
